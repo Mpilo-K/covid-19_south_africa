@@ -1,6 +1,6 @@
 # Analysis of Covid-19 Data in South Africa
 
-In this project I am showcasing my Data Analytics skills by analysing covid-19 data for South Africa
+In this project I am showcasing my Data Analytics skills by analysing covid-19 data for South Africa. I am still working on imporving the visualisations and intepretations from this data to help anyone understand and also see answers to interesting questions.
 
 ### To view this fun mini project, check these files: 
 - [RMarkdown for the Project](https://github.com/Mpilo-K/covid-19_south_sfrica/blob/main/covid-19_south_africa.Rmd)
