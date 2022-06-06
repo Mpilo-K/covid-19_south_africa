@@ -110,11 +110,14 @@ ggplot(southafrica_df, aes(Date, Confirmed_cases)) +
 
 ```{r}
 
-ggplot(southafrica_df, aes(Date, Confirmed_cases, fill = Alert_level, col= Alert_level)) +
+(graph2 <- ggplot(southafrica_df, aes(Date, Confirmed_cases, fill = Alert_level, col= Alert_level)) +
   geom_bar(stat="identity", position = "dodge") + 
   labs(x = "Date", y = "Confirmed Covid-19 cases (cumulative)") +  
   theme(panel.background = element_rect(),
-                    axis.line = element_line(colour ="black"))
+                    axis.line = element_line(colour ="black")))
+
+ggsave(filename = "confirmed_covid-19_cases_South_Africa.png", graph2)
+
 
 ```
 
