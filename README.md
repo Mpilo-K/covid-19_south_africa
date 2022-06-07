@@ -8,7 +8,7 @@ In this project I am showcasing my Data Analytics skills by analysing covid-19 d
 
 
 ### Data Sources"
-- [Kaggle Dataset](https://www.kaggle.com/datasets/imdevskp/corona-virus-report)
+- [Kaggle Covid-19 Dataset](https://www.kaggle.com/datasets/imdevskp/corona-virus-report)
 - [South African Covid-19 Alerts Data](https://www.gov.za/covid-19/about/about-alert-system)
 
 ### Packages/Libraries used in this project:
@@ -22,4 +22,6 @@ In this project I am showcasing my Data Analytics skills by analysing covid-19 d
 
 ### Current Visualisations:
 ![image of a graph showing number of confirmed covid-19 cases in South Africa](https://github.com/Mpilo-K/covid-19_south_sfrica/blob/main/confirmed_covid-19_cases_South_Africa.png?raw=true)
+
+![image of a graph showing number of confirmed vs recovered covid-19 cases in South Africa](https://github.com/Mpilo-K/covid-19_south_africa/blob/main/covid-19_cases_South_Africa.png?raw=true)
 
