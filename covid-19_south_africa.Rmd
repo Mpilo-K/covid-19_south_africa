@@ -2,7 +2,9 @@
 title: "Analysis of Covid-19 in South Africa"
 author: "Mpilo Khumalo"
 date: '2022-06-05'
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ## Loading Packages
